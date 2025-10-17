@@ -1,2 +1,2 @@
-# -o-n-ng-c-n
+# nong_do_con
 mô phỏng bằng proteus
